@@ -1,3 +1,12 @@
+Worked on by 
+Jack Spiratos 
+Vinuyan Sivakolunthu
+Joshua Vilda
+Camille Granade
+
+
+
+
 <img src="https://cqiprog.info/logo.png" width="300">
 
 # Programmation - CQI 2025
