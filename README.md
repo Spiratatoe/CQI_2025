@@ -1,8 +1,8 @@
 Worked on by 
-Jack Spiratos 
-Vinuyan Sivakolunthu
-Joshua Vilda
-Camille Granade
+Jack Spiratos, 
+Vinuyan Sivakolunthu,
+Joshua Vilda,
+Camille Granade,
 
 
 
