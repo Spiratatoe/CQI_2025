@@ -1,9 +1,11 @@
-Worked on by 
-Jack Spiratos, 
-Vinuyan Sivakolunthu,
-Joshua Vilda,
-Camille Granade,
+Worked on by <br>
+Jack Spiratos, <br>
+Vinuyan Sivakolunthu,<br>
+Joshua Vilda,<br>
+Camille Granade<br>
 
+link to slides :<br>
+https://www.canva.com/design/DAGca2_Ypfk/X2MZL1bULaLxFTluPI72Cg/edit
 
 
 
